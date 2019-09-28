@@ -1,0 +1,10 @@
+*{
+    /* selector universal */
+    color: red;
+}
+h1 {
+    text-transform: uppercase
+}
+h2 {
+    color: aliceblue
+}
